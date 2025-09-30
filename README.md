@@ -9,7 +9,7 @@ Langages : C, C++, Python, Java
 
 Outils : Git, GitHub, VS Code, Linux
 
-Technologies : HTML, CSS, React, Node.js, SQL
+Technologies : HTML, CSS, SQL
 
 
 🌱 En cours d’apprentissage
